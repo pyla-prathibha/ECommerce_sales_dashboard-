@@ -6,9 +6,8 @@ Creating Interactive Dashboard of Madhav E-Commerce Store
 The owner of the Madhav E-Commerce Store wants us to create an interactive dashboard to track and analyze their online sales across India.
 
 # Dataset used
-- Details
-
-- Orders
+- [Details](https://github.com/pyla-prathibha/ECommerce_sales_dashboard-/blob/main/Details.csv)
+- [Orders](https://github.com/pyla-prathibha/ECommerce_sales_dashboard-/blob/main/Orders.csv)
 # Questions (KPIs)
 -  Compare the sum of the amounts with different states.
 -  Which person spent the maximum amount of money to buy products?
