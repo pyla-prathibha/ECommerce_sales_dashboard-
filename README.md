@@ -1,5 +1,5 @@
 
-# Interactive-Dashboard-Creation-Using-Power-BI
+# Interactive Dashboard Creation Using Power BI
 Creating Interactive Dashboard of Madhav E-Commerce Store
 
 # Project Objective
